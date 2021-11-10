@@ -5,7 +5,7 @@ namespace DBFrutos.Dominio
 {
     public class Pedido 
     {
-        public int ID_Pedido { get; set;}
+        public int Id { get; set;}
         public int Cantidad { get; set; }
         public decimal Valor { get; set; }
         public DateTime Fecha_Hora { get; set; }

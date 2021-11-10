@@ -4,7 +4,7 @@ using DBFrutos.Dominio;
 
 namespace DBFrutos.Persistencia
 {
-    public class AppContext : DBContext 
+    public class AppContext : DbContext 
     {
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<TipoUsuario> TiposUsuario { get; set; }
