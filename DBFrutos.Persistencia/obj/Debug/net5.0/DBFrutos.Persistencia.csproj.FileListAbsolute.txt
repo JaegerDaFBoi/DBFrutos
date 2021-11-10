@@ -1,0 +1,5 @@
+C:\Users\SENA\Documents\DBFrutos\DBFrutos.Persistencia\obj\Debug\net5.0\DBFrutos.Persistencia.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\DBFrutos\DBFrutos.Persistencia\obj\Debug\net5.0\DBFrutos.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\DBFrutos\DBFrutos.Persistencia\obj\Debug\net5.0\DBFrutos.Persistencia.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\DBFrutos\DBFrutos.Persistencia\obj\Debug\net5.0\DBFrutos.Persistencia.AssemblyInfo.cs
+C:\Users\SENA\Documents\DBFrutos\DBFrutos.Persistencia\obj\Debug\net5.0\DBFrutos.Persistencia.csproj.CoreCompileInputs.cache
