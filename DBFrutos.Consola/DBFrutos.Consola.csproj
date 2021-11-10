@@ -1,5 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\DBFrutos.Dominio\DBFrutos.Dominio.csproj" />
+    <ProjectReference Include="..\DBFrutos.Persistencia\DBFrutos.Persistencia.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
