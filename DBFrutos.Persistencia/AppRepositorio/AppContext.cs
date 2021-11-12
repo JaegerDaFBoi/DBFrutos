@@ -16,7 +16,7 @@ namespace DBFrutos.Persistencia
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Initial Catalog=DataBaseFrutos; Data Source=MANAPRRCLFSD625\\SQLEXPRESS; Integrated Security=true");
+                optionsBuilder.UseSqlServer("Initial Catalog=DataBaseFrutos; Data Source=DESKTOP-0LQEFDS\SQLEXPRESS; Integrated Security=true");
             }
         }
     }

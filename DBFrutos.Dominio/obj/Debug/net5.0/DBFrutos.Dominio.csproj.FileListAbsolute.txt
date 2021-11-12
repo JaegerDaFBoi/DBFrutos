@@ -10,3 +10,15 @@ C:\Users\SENA\Documents\DBFrutos\DBFrutos.Dominio\bin\Debug\net5.0\DBFrutos.Domi
 C:\Users\SENA\Documents\DBFrutos\DBFrutos.Dominio\obj\Debug\net5.0\DBFrutos.Dominio.dll
 C:\Users\SENA\Documents\DBFrutos\DBFrutos.Dominio\obj\Debug\net5.0\ref\DBFrutos.Dominio.dll
 C:\Users\SENA\Documents\DBFrutos\DBFrutos.Dominio\obj\Debug\net5.0\DBFrutos.Dominio.pdb
+C:\Users\JC\Documents\DBFrutos\DBFrutos.Dominio\bin\Debug\net5.0\DBFrutos.Dominio.deps.json
+C:\Users\JC\Documents\DBFrutos\DBFrutos.Dominio\bin\Debug\net5.0\DBFrutos.Dominio.dll
+C:\Users\JC\Documents\DBFrutos\DBFrutos.Dominio\bin\Debug\net5.0\ref\DBFrutos.Dominio.dll
+C:\Users\JC\Documents\DBFrutos\DBFrutos.Dominio\bin\Debug\net5.0\DBFrutos.Dominio.pdb
+C:\Users\JC\Documents\DBFrutos\DBFrutos.Dominio\obj\Debug\net5.0\DBFrutos.Dominio.csproj.AssemblyReference.cache
+C:\Users\JC\Documents\DBFrutos\DBFrutos.Dominio\obj\Debug\net5.0\DBFrutos.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JC\Documents\DBFrutos\DBFrutos.Dominio\obj\Debug\net5.0\DBFrutos.Dominio.AssemblyInfoInputs.cache
+C:\Users\JC\Documents\DBFrutos\DBFrutos.Dominio\obj\Debug\net5.0\DBFrutos.Dominio.AssemblyInfo.cs
+C:\Users\JC\Documents\DBFrutos\DBFrutos.Dominio\obj\Debug\net5.0\DBFrutos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\DBFrutos\DBFrutos.Dominio\obj\Debug\net5.0\DBFrutos.Dominio.dll
+C:\Users\JC\Documents\DBFrutos\DBFrutos.Dominio\obj\Debug\net5.0\ref\DBFrutos.Dominio.dll
+C:\Users\JC\Documents\DBFrutos\DBFrutos.Dominio\obj\Debug\net5.0\DBFrutos.Dominio.pdb

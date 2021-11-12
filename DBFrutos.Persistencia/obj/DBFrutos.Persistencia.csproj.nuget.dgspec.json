@@ -1,34 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\Documents\\DBFrutos\\DBFrutos.Persistencia\\DBFrutos.Persistencia.csproj": {}
+    "C:\\Users\\JC\\Documents\\DBFrutos\\DBFrutos.Persistencia\\DBFrutos.Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\Documents\\DBFrutos\\DBFrutos.Dominio\\DBFrutos.Dominio.csproj": {
+    "C:\\Users\\JC\\Documents\\DBFrutos\\DBFrutos.Dominio\\DBFrutos.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Documents\\DBFrutos\\DBFrutos.Dominio\\DBFrutos.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\JC\\Documents\\DBFrutos\\DBFrutos.Dominio\\DBFrutos.Dominio.csproj",
         "projectName": "DBFrutos.Dominio",
-        "projectPath": "C:\\Users\\SENA\\Documents\\DBFrutos\\DBFrutos.Dominio\\DBFrutos.Dominio.csproj",
-        "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Documents\\DBFrutos\\DBFrutos.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\JC\\Documents\\DBFrutos\\DBFrutos.Dominio\\DBFrutos.Dominio.csproj",
+        "packagesPath": "C:\\Users\\JC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JC\\Documents\\DBFrutos\\DBFrutos.Dominio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\JC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -60,42 +54,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\SENA\\Documents\\DBFrutos\\DBFrutos.Persistencia\\DBFrutos.Persistencia.csproj": {
+    "C:\\Users\\JC\\Documents\\DBFrutos\\DBFrutos.Persistencia\\DBFrutos.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Documents\\DBFrutos\\DBFrutos.Persistencia\\DBFrutos.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\JC\\Documents\\DBFrutos\\DBFrutos.Persistencia\\DBFrutos.Persistencia.csproj",
         "projectName": "DBFrutos.Persistencia",
-        "projectPath": "C:\\Users\\SENA\\Documents\\DBFrutos\\DBFrutos.Persistencia\\DBFrutos.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Documents\\DBFrutos\\DBFrutos.Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\JC\\Documents\\DBFrutos\\DBFrutos.Persistencia\\DBFrutos.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\JC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JC\\Documents\\DBFrutos\\DBFrutos.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\JC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\SENA\\Documents\\DBFrutos\\DBFrutos.Dominio\\DBFrutos.Dominio.csproj": {
-                "projectPath": "C:\\Users\\SENA\\Documents\\DBFrutos\\DBFrutos.Dominio\\DBFrutos.Dominio.csproj"
+              "C:\\Users\\JC\\Documents\\DBFrutos\\DBFrutos.Dominio\\DBFrutos.Dominio.csproj": {
+                "projectPath": "C:\\Users\\JC\\Documents\\DBFrutos\\DBFrutos.Dominio\\DBFrutos.Dominio.csproj"
               }
             }
           }
@@ -146,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
